@@ -1,8 +1,8 @@
 
-# Watch Live Preview:👇
+# Live Preview 👇
 http://badalfoundation.great-site.net/
 
-# Badalfoundation
+# Donation Website
 
 
 This is a website that allows users to make donations to various causes and charities. The website is created using HTML and CSS, and it integrates a payment gateway to process the transactions.
