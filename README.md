@@ -4,8 +4,6 @@ http://badalfoundation.great-site.net/
 
 # Badalfoundation
 
-![Web capture_22-6-2023_19553_badalfoundation great-site net](https://github.com/badalsharmaa/Badalfoundation/assets/71165326/91d4b939-971a-46c5-b2bc-e7691cbb051e)
-
 
 This is a website that allows users to make donations to various causes and charities. The website is created using HTML and CSS, and it integrates a payment gateway to process the transactions.
 
@@ -30,3 +28,7 @@ The API returns a response with the following fields:
 - message: A message explaining the status or any errors.
 
 The website uses JavaScript to validate the user input, send the request to the API, and display the response on the thank you page. It also uses CSS to style the layout and appearance of the website.
+
+
+![Web capture_22-6-2023_19553_badalfoundation great-site net](https://github.com/badalsharmaa/Badalfoundation/assets/71165326/91d4b939-971a-46c5-b2bc-e7691cbb051e)
+
